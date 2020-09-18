@@ -1,4 +1,5 @@
 ## Impact of socio-political incidents on the spread of COVID-19 (Ethiopia)
+![Figure 1](https://raw.githubusercontent.com/nahomneg/week3/master/Plot.PNG)
 
 ## Business Need
 Ethiopia, like many other countries across the globe, is faced with the challenge of mitigating
