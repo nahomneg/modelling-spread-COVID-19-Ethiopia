@@ -30,7 +30,7 @@ not able to transmit the disease (Incubation Period). The following are some of 
 negative impact on the reliability of the data.
 - Ethiopia, as a developing country is struggling with lack of equipped diagnostics with
 appropriate instruments and testing kits. 
-- . Civil unrests also resulted in days with no tests
+- Civil unrests also resulted in days with no tests
 conducted.
 - Ethiopia applied most of the interventions before the community spread began. This resulted in only one government intervention in the analysis
 
